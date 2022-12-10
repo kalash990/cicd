@@ -3,3 +3,9 @@ def func():
 
 
 func()
+
+
+
+x = "kalash srivastava"
+for i in x:
+    print(i,end = "-")
